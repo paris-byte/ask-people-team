@@ -60,8 +60,7 @@ ask-people-team/
 If you can't find what you're looking for:
 
 1. **Search this repo** using the search bar above
-2. **Reach out to the People Team** via Slack at `#ask-people-team`
-3. **Submit a question or feedback** by opening an [Issue](../../issues/new)
+2. **Reach out to the People Team** via email at hr@mainstay.io 
 
 ---
 
