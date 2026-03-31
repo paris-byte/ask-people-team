@@ -9,49 +9,31 @@ Welcome to the **People Team** documentation hub for Mainstay. This repository i
 | Category | Description |
 |----------|-------------|
 | 📖 **Employee Handbook** | Core company policies, values, and expectations |
-| 🌴 **PTO & Leave Policies** | Vacation, sick leave, parental leave, and other time-off policies |
-| 💰 **Benefits** | Health, dental, vision, 401(k), and other employee benefits |
-| 📋 **Policies & Procedures** | Workplace policies, code of conduct, and operational procedures |
-| 🚀 **Onboarding** | New hire guides, checklists, and orientation materials |
-| 🎓 **Learning & Development** | Training resources, career growth, and development programs |
-| 🏢 **Performance Management** | Review cycles, feedback processes, and goal-setting frameworks |
+| 🌴 **PTO & Leave Policies** | Vacation, sick leave, parental leave, bereavement, jury duty, and more |
+| 💰 **Benefits & Stipends** | Health benefits, connectivity reimbursement, WFH stipend |
+| 📋 **Policies & Procedures** | Workplace policies, travel, spend, relocation, and internal transfers |
+| 🏠 **Remote Work** | Work from home guidelines and reimbursement policies |
 
 ---
 
-## 📂 Repository Structure
+## 📂 Files in This Repo
 
-```
-ask-people-team/
-├── handbook/
-│   └── Mainstay Employee Handbook.pdf
-├── pto-and-leave/
-│   ├── pto-policy.md
-│   └── leave-of-absence.md
-├── benefits/
-│   ├── health-benefits.md
-│   ├── 401k.md
-│   └── perks.md
-├── policies/
-│   ├── code-of-conduct.md
-│   ├── remote-work-policy.md
-│   └── expense-policy.md
-├── onboarding/
-│   ├── new-hire-checklist.md
-│   └── first-day-guide.md
-└── README.md
-```
-
-> 📝 *This structure will grow as documents are added. Check back often for updates!*
-
----
-
-## 🔍 Quick Links
-
-- [Employee Handbook](./Mainstay%20Employee%20Handbook%20%20(1).pdf)
-- [PTO & Leave Policies](#)
-- [Benefits Overview](#)
-- [Code of Conduct](#)
-- [Onboarding Checklist](#)
+| Document | Category |
+|----------|----------|
+| 📖 [Mainstay Employee Handbook](./Mainstay%20Employee%20Handbook%20%20(1).pdf) | Handbook |
+| 🗓️ [Attendance, Tardiness and Absence from Work Policy](./Attendance%2C%20Tardiness%20and%20Absence%20from%20Work%20Policy.docx) | Attendance & Leave |
+| 🕊️ [Bereavement Time Off Policy](./Bereavement%20Time%20Off%20Policy.docx) | Leave |
+| 📡 [Connectivity Reimbursement Policy](./Connectivity%20Reimbursement%20Policy.docx) | Benefits & Stipends |
+| ✈️ [Entertainment, Travel & Spend Policy](./Entertainment%2C%20Travel%20%26%20Spend%20Policy.docx) | Travel & Spend |
+| 🔄 [Internal Transfer Policy](./Internal%20Transfer%20Policy.docx) | Policies & Procedures |
+| 🌍 [International Travel Policy](./International%20Travel%20Policy.docx) | Travel & Spend |
+| ⚖️ [Jury & Witness Duty Policy](./Jury%20%26%20Witness%20Duty%20Policy.docx) | Leave |
+| 🏥 [Leave of Absence Policy](./Leave%20of%20Absence%20Policy.docx) | Leave |
+| 👶 [Parental Leave Policy](./Parental%20Leave%20Policy.docx) | Leave |
+| 📦 [Relocation Policy](./Relocation%20Policy.docx) | Policies & Procedures |
+| 🤒 [Sick Leave Policy](./Sick%20Leave%20Policy.docx) | Leave |
+| 🗳️ [Voting Time Off Policy](./Voting%20Time%20Off%20Policy.docx) | Leave |
+| 🏡 [Work From Home Stipend Policy](./Work%20From%20Home%20Stipend%20Policy.docx) | Benefits & Stipends |
 
 ---
 
@@ -60,7 +42,8 @@ ask-people-team/
 If you can't find what you're looking for:
 
 1. **Search this repo** using the search bar above
-2. **Reach out to the People Team** via email at hr@mainstay.io 
+2. **Reach out to the People Team** via Slack at `#ask-people-team`
+3. **Submit a question or feedback** by opening an [Issue](../../issues/new)
 
 ---
 
