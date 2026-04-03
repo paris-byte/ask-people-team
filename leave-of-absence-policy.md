@@ -1,3 +1,11 @@
+---
+status: published
+type: policy
+team: people
+author: Paris Byte
+last-updated: 2026-04-03
+---
+
 # Leave of Absence Policy
 
 Mainstay understands there are moments when you’re not able to work due to certain situations. Review the information below for the types of leave of absences (LOA) that may be available to you, find out how you can apply for a LOA, as well as other important information & helpful resources.
