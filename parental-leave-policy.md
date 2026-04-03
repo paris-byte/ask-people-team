@@ -1,3 +1,11 @@
+---
+status: published
+type: policy
+team: people
+author: Paris Byte
+last-updated: 2026-04-03
+---
+
 # **Parental Leave Policy**
 
 Mainstay has established a parental leave policy to provide employees with paid time off following birth, adoption or placement of a foster child. This parental leave provides an opportunity for eligible employees to care for and bond with the child. This parental leave runs concurrently with FMLA and state-provided leaves, as applicable. If you are planning on taking parental leave, please work with the People Team and your direct manager as well as** submit ****this form**** **so Mainstay has the necessary details of your parental leave. When you are ready to submit your Parental Leave (LOA) follow this process: How to Submit an LOA. .
