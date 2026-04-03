@@ -1,3 +1,11 @@
+---
+status: published
+type: policy
+team: people
+author: Paris Byte
+last-updated: 2026-04-03
+---
+
 # **Entertainment, Travel & Spend Policy**
 
 The purpose of this policy is to ensure consistent, efficient, and responsible management of entertainment, travel and business expenses incurred during the course of business activities. This policy aims to ensure compliance with applicable tax regulations, manage costs effectively, and support employees in performing their job duties while maintaining fiscal responsibility. Specific guidelines and the foundation of this policy relies upon employees being thoughtful in their spending of the Company's money.
