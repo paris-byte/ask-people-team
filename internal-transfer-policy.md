@@ -1,3 +1,11 @@
+---
+status: published
+type: policy
+team: people
+author: Paris Byte
+last-updated: 2026-04-03
+---
+
 # **Internal Transfer Policy**
 
 **At Mainstay, **we care about providing our employees with every opportunity possible to help them grow in their careers, wherever it may take them. The internal transfer process complements the professional development framework, connecting internal candidates with meaningful career opportunities, development resources, and exposure to company leadership.
