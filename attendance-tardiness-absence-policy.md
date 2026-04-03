@@ -1,3 +1,11 @@
+---
+status: published
+type: policy
+team: people
+author: Paris Byte
+last-updated: 2026-04-03
+---
+
 # **Attendance, Tardiness & Absence from Work Policy**
 
 Maintaining good attendance is a condition of employment and an essential job function of each
