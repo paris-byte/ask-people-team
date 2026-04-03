@@ -1,3 +1,11 @@
+---
+status: published
+type: policy
+team: people
+author: Paris Byte
+last-updated: 2026-04-03
+---
+
 # **Bereavement Time Off Policy**
 
 Mainstay is supportive of you and your family through life’s challenging times. If a loved one has passed, we want you to have time away from work to heal from your loss, including the loss of an unborn child.
