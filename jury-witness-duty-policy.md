@@ -1,3 +1,11 @@
+---
+status: published
+type: policy
+team: people
+author: Paris Byte
+last-updated: 2026-04-03
+---
+
 # **Jury & Witness Duty Policy**
 
 To provide income protection while you carry out your civic responsibility, Mainstay will continue your regular pay for a maximum of forty (40) hours during time spent serving on jury duty or acting as a court witness/appearance.  If applicable state law requires Mainstay to continue your regular pay for a period longer than five workdays, the Company will comply with such law.  Any additional jury duty leave that is not required to be paid under this policy or applicable state law will be unpaid.  In addition, exempt employees will continue to receive their full salaries for any weeks in which they perform any work for the Company.
