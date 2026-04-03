@@ -1,3 +1,11 @@
+---
+status: published
+type: policy
+team: people
+author: Paris Byte
+last-updated: 2026-04-03
+---
+
 # **Work From Home (WFH) Stipend**
 
 Home sweet home (office)! Since we’re a remote-first company, we want every new team member to feel set up for success. As part of your onboarding, you’ll receive a $500 work-from-home stipend to help you outfit your home office, whether that's upgrading your chair, sprucing up your desk, or getting the gear you need to do your best work from day one.
