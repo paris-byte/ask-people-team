@@ -1,3 +1,11 @@
+---
+status: published
+type: policy
+team: people
+author: Paris Byte
+last-updated: 2026-04-03
+---
+
 # **International Travel Policy**
 
 Since 2020, we have been living in unprecedented times. We understand the desire to travel and/or work remotely. However, for many reasons (employment law, immigration, insurance, permanent establishment, equity and tax considerations), we *cannot* support work overseas for a lengthy period of time. This is not unique to Mainstay, or unusual, for any US-based company.
