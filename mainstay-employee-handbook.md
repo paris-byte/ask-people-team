@@ -1,3 +1,11 @@
+---
+status: published
+type: policy
+team: people
+author: Paris Byte
+last-updated: 2026-04-03
+---
+
 # Mainstay Employee Handbook
 *January 2026*
 > THIS HANDBOOK DOES NOT CREATE AN “EMPLOYMENT CONTRACT” OR OTHER
