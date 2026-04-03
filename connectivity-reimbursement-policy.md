@@ -1,3 +1,11 @@
+---
+status: published
+type: policy
+team: people
+author: Paris Byte
+last-updated: 2026-04-03
+---
+
 # **Connectivity Reimbursement Policy**
 
 The Connectivity Reimbursement Program is a benefit that provides eligible teammates in the U.S. and Canada an opportunity to receive non-taxable reimbursement for cell phone or internet use related to their roles. We have simplified the eligibility criteria to allow employees who use their home internet, personal cell phone or both for business purposes to be eligible for a single Connectivity Reimbursement amount.
