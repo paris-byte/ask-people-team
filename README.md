@@ -16,6 +16,27 @@ Welcome to the **People Team** documentation hub for Mainstay. This repository i
 
 ---
 
+## 📄 Documents
+
+| Document | Category |
+|----------|----------|
+| 📖 [Mainstay Employee Handbook](./mainstay-employee-handbook.md) | Handbook |
+| 🗓️ [Attendance, Tardiness and Absence from Work Policy](./attendance-tardiness-absence-policy.md) | Attendance & Leave |
+| 🕊️ [Bereavement Time Off Policy](./bereavement-time-off-policy.md) | Leave |
+| 📡 [Connectivity Reimbursement Policy](./connectivity-reimbursement-policy.md) | Benefits & Stipends |
+| ✈️ [Entertainment, Travel & Spend Policy](./entertainment-travel-spend-policy.md) | Travel & Spend |
+| 🔄 [Internal Transfer Policy](./internal-transfer-policy.md) | Policies & Procedures |
+| 🌍 [International Travel Policy](./international-travel-policy.md) | Travel & Spend |
+| ⚖️ [Jury & Witness Duty Policy](./jury-witness-duty-policy.md) | Leave |
+| 🏥 [Leave of Absence Policy](./leave-of-absence-policy.md) | Leave |
+| 👶 [Parental Leave Policy](./parental-leave-policy.md) | Leave |
+| 📦 [Relocation Policy](./relocation-policy.md) | Policies & Procedures |
+| 🤒 [Sick Leave Policy](./sick-leave-policy.md) | Leave |
+| 🗳️ [Voting Time Off Policy](./voting-time-off-policy.md) | Leave |
+| 🏡 [Work From Home Stipend Policy](./work-from-home-stipend-policy.md) | Benefits & Stipends |
+
+---
+
 ## 📂 Files in This Repo
 
 | Document | Category |
